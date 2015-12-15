@@ -1,4 +1,9 @@
 module: lvl10
+// Minimal solution for level 10. The problem was so hard that it was
+// not possible to implement an algorithm with the optimal solution,
+// not at least with the scarce remaining time, so went through a dummy
+// solution that is able to solve the example, test and final cases and
+// sketches the overall design.
 
 define generic cost(resource);
 define method cost(resource) 1 end;

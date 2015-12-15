@@ -1,3 +1,3 @@
 Library: lvl10
-Files: library
+Files: lvl10-library
        lvl10

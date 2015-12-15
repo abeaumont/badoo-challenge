@@ -12,7 +12,6 @@ events = []
   events.push([entry, 1, 0], [exit, 0, cost])
 end
 
-
 current_cars = 0
 daily_max = 0
 peak_max = 0

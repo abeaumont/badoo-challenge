@@ -40,14 +40,3 @@ let () =
   for i = 1 to int_of_string (String.strip (read_line ())) do
     process ()
   done
-
-(* print_endline (String.concat " " (List.filter_map (fun i -> (check_answers "arstarstarst" 3 i)) (List.range 0 `To 10))) *)
-(* 
-
-check_matches i s n =
-if 
-read input
-for each case 
-
-
-*)
