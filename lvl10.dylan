@@ -3,7 +3,7 @@ module: lvl10
 // not possible to implement an algorithm with the optimal solution,
 // not at least with the scarce remaining time, so went through a dummy
 // solution that is able to solve the example, test and final cases and
-// sketches the overall design.
+// sketches the overall OOP design with multimethods.
 
 define generic cost(resource);
 define method cost(resource) 1 end;
